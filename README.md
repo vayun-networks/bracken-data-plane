@@ -2,6 +2,8 @@
 
 > High-performance BRACKEN packet processing for forwarding, classification, filtering, policy enforcement, flow tracking, and traffic counters.
 
+> Contributor guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN Data Plane
